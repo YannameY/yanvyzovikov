@@ -15,10 +15,10 @@ Testing Engineer
 
 📃 Описание проектов / Projects description:
 №	Ссылка	Краткое описание	Применяемые инструменты
+
 1	Проектирование тестов / Design Tests	Тестируем сервис Яндекс.Маршруты, смотри КЭ и ГЗ, формирем отчёт / Test the Yandex.Routes service, describe Equivalence Classes & the Boundary Values, generate report	MS Excel
 
 2	Тестирование веб-приложений / Testing web applications	Продолжаем тестировать сервис Яндекс.Маршруты, используем макеты и требования из Figma, делаем описание багов в Яндекс.Трекере и тренируемся с Charles / Continue to test the Yandex.Routes service, use layouts and requirements from Figma, make a description of bugs in Yandex.Tracker and train web-changing with Charles	Charles, MS Excel, Yandex.Tracker, Figma
-
 
 3	Тестирование мобильных приложений и API / Testing mobile apps and APIs	Всё ещё тестируем Яндекс.Маршруты, делаем описание багов в Яндекc.Трекере, тестируем API с помощью Postman, тестируем мобильную версию приложения в Android Studio / Still testing Yandex.Routes, making a description of bugs in Yandex.Tracker, testing the API using Postman, testing the mobile version of the application in Android Studio	Postman, MS Excel, Yandex.Tracker, Android Studio
 
