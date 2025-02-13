@@ -20,3 +20,4 @@
 - Android Studio :robot:
 - Cygwin64 :computer:
 - PostgreSQL :closed_lock_with_key:
+## :white_check_mark: [Выполненная работа](https://docs.google.com/spreadsheets/d/1G3SfmZY6je4xvPnZ2y2Sv-2de1hta-zDCfCS2dbomEo/edit?gid=899462569#gid=899462569)
