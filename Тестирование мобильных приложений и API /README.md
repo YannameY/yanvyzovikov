@@ -16,3 +16,4 @@
 - Postman :envelope:
 - Android Studio :robot:
 - Yandex.Tracker :file_cabinet:
+## :white_check_mark: [Выполненная работа](https://docs.google.com/spreadsheets/d/10REC2WpoLTYaVpMnrxxB1fWSFPH3-IbchZY9XMRQWQI/edit?gid=899462569#gid=899462569)
