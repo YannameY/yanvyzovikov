@@ -16,4 +16,5 @@
 - Postman :envelope:
 - Android Studio :robot:
 - Yandex.Tracker :file_cabinet:
-## :white_check_mark: [Выполненная работа](https://docs.google.com/spreadsheets/d/10REC2WpoLTYaVpMnrxxB1fWSFPH3-IbchZY9XMRQWQI/edit?gid=899462569#gid=899462569)
+## :white_check_mark: [Тестирование мобильного приложения](https://docs.google.com/spreadsheets/d/10REC2WpoLTYaVpMnrxxB1fWSFPH3-IbchZY9XMRQWQI/edit?gid=899462569#gid=899462569)
+## :white_check_mark: [Тестирование API](https://docs.google.com/spreadsheets/d/15fElWrXyqvgPK-GBGf_-V8LTBdb1PP-BaYM099-EPLk/edit?gid=2006427015#gid=2006427015)
