@@ -21,3 +21,4 @@
 - Cygwin64 :computer:
 - PostgreSQL :closed_lock_with_key:
 ## :white_check_mark: [Выполненная работа](https://docs.google.com/spreadsheets/d/184w3yrtez9XPrFkhG4LScafGh0tq97uajIpuoeodA3c/edit?gid=943703744#gid=943703744)
+## :white_check_mark: [Баг-репорт](https://docs.google.com/spreadsheets/d/1XHb2jqn8OuLo8tJEMATC4Qy0YU9erd6jEGSvk8bXSQ0/edit?gid=1186534874#gid=1186534874)
