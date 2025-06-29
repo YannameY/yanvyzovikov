@@ -9,6 +9,10 @@
 - :iphone: Тестирование мобильных приложений и API / Testing mobile apps and APIs
 - :floppy_disk: Базы данных / Databases
 - :man_technologist: Диплом / Diploma
+- UI-тестирование на java+Selenium
+- Юнит-тесты(java)
+- API тесты(java)
+- Дипломный проект по автоматизации
 
 ## :page_with_curl: Описание проектов / Projects description:
 |        №      | Ссылка            | Краткое описание                                                 | Применяемые инструменты | 
