@@ -21,15 +21,15 @@
 - **Языки программирования**: Java
 - **Фреймворки**: JUnit, TestNG
 - **Инструменты тестирования**: Selenium WebDriver, RestAssured
-- **Системы сборки**: Maven, Gradle
+- **Системы сборки**: Maven
 - **CI/CD**: Jenkins, GitHub Actions
-- **Отчетность**: Allure, ExtentReports
-- **Другое**: Postman, Charles, Android Studio
+- **Отчетность**: Allure
+- **Другое**: Postman
 
 ## :mortar_board: Сертификат / Certificate:
 [![Certificate](certificate-image-link)](link-to-certificate)
 
 ## :envelope: Контакты / Contacts:
-- :email: Email: your.email@example.com
-- :telephone: Telegram: @yourtelegram
-- :briefcase: LinkedIn: [Your Name](linkedin-link)
+- :email: Email: yanvyazovikov@outlook.com
+- :telephone: Telegram: [yanvyazovikov](https://t.me/yanvyazovikov)
+- :briefcase: HH: [Резюме](https://spb.hh.ru/resume/71dcc5d8ff0896bae90039ed1f737563475852)
