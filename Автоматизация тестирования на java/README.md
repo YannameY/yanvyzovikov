@@ -26,7 +26,7 @@
 - **Отчетность**: Allure
 - **Другое**: Postman
 
-## :mortar_board: Сертификат / Certificate:
+## :mortar_board: Диплом / Certificate:
 [![Certificate](certificate-image-link)](link-to-certificate)
 
 ## :envelope: Контакты / Contacts:
