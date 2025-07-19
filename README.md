@@ -29,3 +29,8 @@
 
 ## :mortar_board: Диплом / Certificate:
 ![Screenshot](https://github.com/YannameY/yanvyzovikov.github.io/blob/main/Diplom.png)
+
+## :envelope: Контакты / Contacts:
+- :email: Email: yanvyazovikov@outlook.com
+- :telephone: Telegram: [yanvyazovikov](https://t.me/yanvyazovikov)
+- :briefcase: HH: [Резюме](https://spb.hh.ru/resume/71dcc5d8ff0896bae90039ed1f737563475852)
