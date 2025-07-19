@@ -9,10 +9,10 @@
 - :iphone: Тестирование мобильных приложений и API / Testing mobile apps and APIs
 - :floppy_disk: Базы данных / Databases
 - :man_technologist: Диплом / Diploma
-- UI-тестирование на java+Selenium
-- Юнит-тесты(java)
-- API тесты(java)
-- Дипломный проект по автоматизации
+- :computer: UI-тестирование на Java + Selenium
+- :microscope: Юнит-тестирование (Java)
+- :globe_with_meridians: API-тестирование (Java)
+- :trophy: Дипломный проект по автоматизации
 
 ## :page_with_curl: Описание проектов / Projects description:
 |        №      | Ссылка            | Краткое описание                                                 | Применяемые инструменты | 
@@ -22,3 +22,10 @@
 |3              |[Тестирование мобильных приложений и API / Testing mobile apps and APIs](https://github.com/YannameY/yanvyzovikov.github.io/tree/main/%D0%A2%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20API%20)| Всё ещё тестируем Яндекс.Маршруты, делаем описание багов в Яндекc.Трекере, тестируем API с помощью Postman, тестируем мобильную версию приложения в Android Studio / Still testing Yandex.Routes, making a description of bugs in Yandex.Tracker, testing the API using Postman, testing the mobile version of the application in Android Studio |Postman, MS Excel, Yandex.Tracker, Android Studio|
 |4              |[Базы данных / Databases](https://github.com/YannameY/yanvyzovikov.github.io/tree/main/%D0%91%D0%B0%D0%B7%D1%8B%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)| Работаем с консолью для подключения к ДБ, используем Cygwin64 для отправки команд, синтаксис PostgreSQL / Works with a console to connect to DB, use Cygwin64 to send commands, PostgreSQL syntax |Cygwin64, PostgreSQL|
 |5              |[Диплом / Diploma](https://github.com/YannameY/yanvyzovikov.github.io/tree/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC)|  Итоговая работа, собираем все знания в общий котел и готовим итоговый отчёт по Яндекс.Самокат / The final work, I collect all the knowledge in a common mind and prepare to make the final report on Yandex.Scooter|MS Excel, Yandex.Tracker, Figma, Postman, Android Studio, Cygwin64, PostgreSQL|
+|6  | [UI-тестирование](https://github.com/YannameY/yanvyzovikov.github.io/tree/main/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20java/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC(java)/UI%20%D1%82%D0%B5%D1%81%D1%82%D1%8B) | Автоматизация тестирования веб-интерфейсов с использованием Selenium WebDriver | Java, Selenium, JUnit, Allure |
+|7  | [Юнит-тесты](https://github.com/YannameY/yanvyzovikov.github.io/tree/main/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20java/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC(java)/%D0%AE%D0%BD%D0%B8%D1%82-%D1%82%D0%B5%D1%81%D1%82%D1%8B) | Написание модульных тестов для проверки отдельных компонентов системы | Java, JUnit, Mockito |
+|8  | [API-тесты](https://github.com/YannameY/yanvyzovikov.github.io/tree/main/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%BD%D0%B0%20java/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC(java)/API-%D1%82%D0%B5%D1%81%D1%82%D1%8B) | Автоматизация тестирования REST API | Java, RestAssured, JUnit, Allure |
+|9  | [Дипломный проект](link-to-diploma) | Комплексная автоматизация тестирования веб-приложения | Java, Selenium, RestAssured, JUnit, Allure, CI/CD |
+
+## :mortar_board: Диплом / Certificate:
+![Screenshot](https://github.com/YannameY/yanvyzovikov.github.io/blob/main/Diplom.png)
