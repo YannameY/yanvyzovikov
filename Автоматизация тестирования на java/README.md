@@ -27,7 +27,7 @@
 - **Другое**: Postman
 
 ## :mortar_board: Диплом / Certificate:
-![Screenshot]([https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/YannameY/yanvyzovikov.github.io/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%92%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2_2025-13531-002.pdf)
+![Screenshot](https://github.com/YannameY/yanvyzovikov.github.io/blob/main/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%92%D1%8F%D0%B7%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2_2025-13531-002.pdf)
 
 ## :envelope: Контакты / Contacts:
 - :email: Email: yanvyazovikov@outlook.com
