@@ -1,6 +1,6 @@
 # :mag_right: Инженер по тестированию — Яндекс.Практикум / Testing Engineer — Yandex.Praktikum
 
-*:bookmark: Ссылка на пройденный курс / link course:  [Инженер по тестированию]([https://practicum.yandex.ru/qa-engineer/](https://practicum.yandex.ru/qa-engineer-full-stack/?from=catalog))*
+*:bookmark: Ссылка на пройденный курс / link course:  [Инженер по тестированию]([https://practicum.yandex.ru/qa-engineer/](https://practicum.yandex.ru/qa-engineer-full-stack/?from=catalog)/)*
 
 ## :page_facing_up: Описание / Сourse description:
 В репозитории 9 QA-проектов: 
